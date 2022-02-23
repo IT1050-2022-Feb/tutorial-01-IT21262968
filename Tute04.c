@@ -23,8 +23,7 @@ int main() {
 }
 
 int minimum(int no1, int no2)
-{
-  if(no1>no2)
+{ if(no1>no2)
   {
     return no2;
   }
